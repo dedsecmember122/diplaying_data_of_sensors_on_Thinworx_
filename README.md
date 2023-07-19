@@ -1,0 +1,1 @@
+# diplaying_data_of_sensors_on_Thinworx_
